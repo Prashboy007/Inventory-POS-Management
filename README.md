@@ -1,4 +1,4 @@
-## ✨ Laravel Point of Sale
+## Inventory Point of Sale Management
 
 Point of Sale Management and Invoice build with Laravel 10 and MySql.
 
@@ -113,5 +113,4 @@ If you have any ideas to make it more interesting, please send a PR, or create a
 
 ### [MIT](LICENSE)
 
-> Github [@fajarghifar](https://github.com/fajarghifar) &nbsp;&middot;&nbsp;
-> Instagram [@fajarghifar](https://instagram.com/fajarghifar)
+
